@@ -28,3 +28,11 @@ Why is alignment so difficult? I'm finished with the header section
 of the project, but the links in the top right corner are not 
 well aligned with the header logo on the other side of the page.
 I tried to lower the links vertically, but I didn't succeed. Tough.
+
+Fourth Entry: Progress
+Progress has been steady. It easier to recall the property names and
+values. It is also easier to remember to commit. So far, I committed
+each section individually. Header. Hero. Info. Quotation. It does
+take a long time to finish one single web page, though. No doubt, I
+will increase my speed as I gain experience. It is both encouraging
+and discouraging. But the bridge behind me has burnt down. Onwards.
