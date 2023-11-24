@@ -78,3 +78,37 @@
     border: none;
     color: white;
 }
+
+.info {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 110px;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding: 12px;
+}
+
+.card-container {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-bottom: 36px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+
+.card img {
+    border: 2px solid #3882F6;
+    border-radius: 6px;
+    width: 100px;
+    height: 100px;
+}
