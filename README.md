@@ -4,7 +4,7 @@ Using Flexbox to recreate a particular layout
 # Preview
 
 <div align="center">
-    <img src="./images/memento-mori-small.png" alt="">
+    <img src="./images/project-preview.png" alt="">
 </div>
 
 # Links
