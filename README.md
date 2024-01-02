@@ -1,4 +1,4 @@
-# odin-landing-page
+# foundations-landing-page
 Using Flexbox to recreate a particular layout
 
 # Preview
@@ -11,7 +11,7 @@ Using Flexbox to recreate a particular layout
 
 -[Assignment Page (Dec '23)](https://www.theodinproject.com/lessons/foundations-landing-page)
 
--[Finished Project](https://erreurdesyntaxe.github.io/odin-landing-page/)
+-[Finished Project](https://erreurdesyntaxe.github.io/foundations-landing-page/)
 
 # Notable Features
 
